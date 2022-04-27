@@ -6,8 +6,8 @@
 *::after {
   box-sizing: border-box; 
   content: " (" attr(href) ")";
-  padding: ;
-  margin: 0;
+  padding: 20px ;
+  margin: 0 auto;
   border: ;
   }
   
@@ -107,8 +107,8 @@ select {
     font-family: 'Chelsea Market';
 }
 
-#bodytext {
-    background-color: #DDB9A3;
+#body {
+    background-color:#DDB9A3;
 }
 
 .footer {
